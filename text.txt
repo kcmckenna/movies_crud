@@ -1,0 +1,1 @@
+This is a text file with some text in it and this text file is .txt format.
